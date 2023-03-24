@@ -47,11 +47,10 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        I'm a skilled software developer with experience in TypeScript and
-        JavaScript, and expertise in frameworks like React, Node.js, and
-        Three.js. I'm a quick learner and collaborate closely with clients to
-        create efficient, scalable, and user-friendly solutions that solve
-        real-world problems. Let's work together to bring your ideas to life!
+        For the past four years, I've been diving into the exciting realm of web development, sharpening my skills in TypeScript, React, Node.js, Three.js, Framer Motion and Next.js.
+        Lately, I've caught the Solidity and Rust fever, fueling my passion to unlock their full potential.
+        My ultimate mission is to use my tech Ninja skills to build a better, decentralized future, empowering individuals and communities alike.
+        If you're looking for a developer with a creative edge and a genuine passion for making a difference, you've found it here!
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10'>
