@@ -20,8 +20,9 @@ const Hero = () => {
           </h1>
           <p className={`${styles.heroSubText} mt-2 text-white-100`}>
             Software Shinobi 忍び <br className='sm:block hidden' />
-            CipherPunk 
-            TechnoAnarchist
+            CypherPunk <br className='sm:block hidden' />
+            TechnoAnarchist <br className='sm:block hidden' />
+            Pickle Juice Drinker
           </p>
         </div>
       </div>

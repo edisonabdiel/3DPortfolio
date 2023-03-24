@@ -172,7 +172,7 @@ import {
   const testimonials = [
     {
       testimonial:
-        "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
+        "He's got the best weed in Kotti. I've been smoking with him for years.",
       name: "Sara Lee",
       designation: "CFO",
       company: "Acme Co",
@@ -180,16 +180,16 @@ import {
     },
     {
       testimonial:
-        "I've never met a web developer who truly cares about their clients' success like Rick does.",
-      name: "Chris Brown",
-      designation: "COO",
-      company: "DEF Corp",
-      image: "https://randomuser.me/api/portraits/men/5.jpg",
+        "He is a natural leader and visionary, inspiring cross-functional teams to move from ideation to high-quality outcomes. His ability to start from scratch - with keen observation, creativity, and leadership - and deliver something truly valuable is unparalleled. When working with Edison, success and excellence are a given",
+      name: "Marx Antrax",
+      designation: "CEO",
+      company: "Umbrella Corp",
+      image: "/src/assets/testimonials/gonzi.png",
     },
     {
       testimonial:
-        "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
-      name: "Lisa Wang",
+        "After we did anal my hole was never the same. What a guy!",
+      name: "Lisa Cum Long",
       designation: "CTO",
       company: "456 Enterprises",
       image: "https://randomuser.me/api/portraits/women/6.jpg",
