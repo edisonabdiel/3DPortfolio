@@ -148,7 +148,7 @@ const experiences = [
       "Develope bussines case and project plan for new project development.",
       "Developed an operational team as well as the workflow, KPIs and basically the whole operation of the team from scratch.",
       "Analysing the metadata of the catalogue content and assuring its adequate distribution was the team's main function, as well as cleaning up the and verifying the catalogue from possible copy rights infringements.",
-      "Lear write SQL queries to handle the team's data.",
+      "Learn SQL in order to write queries and handle the team's data.",
     ],
   },
   {
@@ -196,7 +196,7 @@ const experiences = [
 const testimonials = [
   {
     testimonial:
-      "Not only is he trustworthy and reliable, but he is also quite the creative and innovative type. A laugh is almost guaranteed when working with him. He is a great team player and is always willing to help others. I would highly recommend Edison for any project.",
+      "Not only is he trustworthy and reliable, but he is also quite the creative and innovative type. A laugh is guaranteed when working with this guy. Genuine team player and is always willing to help others. I would highly recommend him.",
     name: "Esteban Torres",
     designation: "Sr Engineering Manager",
     company: "Spotify",
@@ -220,7 +220,7 @@ const testimonials = [
   },
   {
     testimonial:
-      "Imagine Dennis Rodman and Steve Jobs went on a wild holiday to Central America and had a baby. That's Edison! Energetic, fun and creative yet systematic, organized and structured. He taught me the definition of work-hard & play-hard.",
+      "Imagine Dennis Rodman and Steve Jobs went on a wild holiday to Central America and had a baby. That's Edison! Energetic, fun and creative yet systematic, organized and structured. He taught me the true definition of work-hard & play-hard.",
     name: "Marc Tuduri",
     designation: "Sr Backend Engineer",
     company: "Grafana Labs",
@@ -228,7 +228,7 @@ const testimonials = [
   },
   {
     testimonial:
-      "Super courious mind with a high energy style and a lot of passion for what he does which makes him fun and engaging to work with. Any team would be lucky to have him on board!",
+      "Super courious mind with a high energy style and a lot of passion for what he does which make him super fun and engaging to work with. Any team would be lucky to have him on board!",
     name: "Amy Nguyen",
     designation: "Backend Engineer",
     company: "Spotify",
@@ -236,7 +236,7 @@ const testimonials = [
   },
   {
     testimonial:
-      "Sometimes I think he is an adroid! He is always on time, always on top of things, and always ready to help. He is a great team player and a great asset to any team. I would highly recommend him for any project.",
+      "Sometimes I think he is an adroid! He is always on time, always on top of things, and always ready to help. Very experienced team player and a great intellectual asset to any team.",
     name: "Harold Haftsadi",
     designation: "QA",
     company: "TikTok",
