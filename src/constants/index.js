@@ -5,8 +5,6 @@ import {
   web,
   javascript,
   typescript,
-  html,
-  css,
   reactjs,
   redux,
   tailwind,
@@ -22,7 +20,9 @@ import {
   threejs,
   amazon,
   home,
-  kick
+  kick,
+  rust,
+  solidity
 } from "../assets";
 
 export const navLinks = [
@@ -60,14 +60,14 @@ const services = [
 ];
 
 const technologies = [
-  {
-    name: "HTML 5",
-    icon: html,
-  },
-  {
-    name: "CSS 3",
-    icon: css,
-  },
+  // {
+  //   name: "HTML 5",
+  //   icon: html,
+  // },
+  // {
+  //   name: "CSS 3",
+  //   icon: css,
+  // },
   {
     name: "JavaScript",
     icon: javascript,
@@ -105,8 +105,16 @@ const technologies = [
     icon: git,
   },
   {
+    name: "Solidity",
+    icon: solidity,
+  },
+  {
     name: "figma",
     icon: figma,
+  },
+  {
+    name: "Rust",
+    icon: rust,
   },
   {
     name: "docker",
