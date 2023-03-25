@@ -25,6 +25,8 @@ import {
   solidity
 } from "../assets";
 
+import { esteban, cachetona, gonzi, marc } from "../assets/testimonials";
+
 export const navLinks = [
   {
     id: "about",
@@ -198,7 +200,7 @@ const testimonials = [
     name: "Esteban Torres",
     designation: "Sr Engineering Manager",
     company: "Spotify",
-    image: "/src/assets/esteban.png",
+    image: esteban,
   },
   {
     testimonial:
@@ -206,7 +208,7 @@ const testimonials = [
     name: "Camille Adrienne",
     designation: "Chief Marketing ",
     company: "Sellpy France",
-    image: "/src/assets/testimonials/cachetona.png",
+    image: cachetona,
   },
   {
     testimonial:
@@ -214,7 +216,7 @@ const testimonials = [
     name: "Gonzalo Mendoza",
     designation: "Product Manager",
     company: "Parity Technologies",
-    image: "/src/assets/testimonials/gonzi.png",
+    image: gonzi,
   },
   {
     testimonial:
@@ -222,7 +224,7 @@ const testimonials = [
     name: "Marc Tuduri",
     designation: "Sr Backend Engineer",
     company: "Grafana Labs",
-    image: "/src/assets/testimonials/marc.png",
+    image: marc,
   },
 ];
 
