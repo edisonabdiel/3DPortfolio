@@ -228,7 +228,7 @@ const testimonials = [
   },
   {
     testimonial:
-      "Super courious and creative mind with a high energy style and a lot of passion for what he does. Any team would be lucky to have him on board.",
+      "Super courious mind with a high energy style and a lot of passion for what he does which makes him fun and engaging to work with. Any team would be lucky to have him on board!",
     name: "Amy Nguyen",
     designation: "Backend Engineer",
     company: "Spotify",
