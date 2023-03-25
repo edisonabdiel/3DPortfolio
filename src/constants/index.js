@@ -18,7 +18,7 @@ import {
     meta,
     starbucks,
     tesla,
-    shopify,
+    soundcloud,
     carrent,
     jobit,
     tripguide,
@@ -143,8 +143,8 @@ import {
     },
     {
       title: "Web Developer",
-      company_name: "Shopify",
-      icon: shopify,
+      company_name: "SoundCloud",
+      icon: soundcloud,
       iconBg: "#383E56",
       date: "Jan 2022 - Jan 2023",
       points: [

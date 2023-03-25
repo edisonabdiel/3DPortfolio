@@ -22,7 +22,7 @@ import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
 
 import meta from "./company/meta.png";
-import shopify from "./company/shopify.png";
+import soundcloud from "./company/soundcloud.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
 
@@ -53,7 +53,7 @@ export {
   typescript,
   threejs,
   meta,
-  shopify,
+  soundcloud,
   starbucks,
   tesla,
   carrent,
