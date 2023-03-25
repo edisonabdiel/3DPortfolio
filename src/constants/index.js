@@ -25,7 +25,7 @@ import {
   solidity
 } from "../assets";
 
-import { esteban, cachetona, gonzi, marc } from "../assets/testimonials";
+import { esteban, cachetona, gonzi, marc, harry, amy } from "../assets/testimonials";
 
 export const navLinks = [
   {
@@ -225,6 +225,22 @@ const testimonials = [
     designation: "Sr Backend Engineer",
     company: "Grafana Labs",
     image: marc,
+  },
+  {
+    testimonial:
+      "Super courious and creative mind with a high energy style and a lot of passion for what he does. Any team would be lucky to have him on board.",
+    name: "Amy Nguyen",
+    designation: "Backend Engineer",
+    company: "Spotify",
+    image: amy,
+  },
+  {
+    testimonial:
+      "Sometimes I think he is an adroid! He is always on time, always on top of things, and always ready to help. He is a great team player and a great asset to any team. I would highly recommend him for any project.",
+    name: "Harold Haftsadi",
+    designation: "QA",
+    company: "TikTok",
+    image: harry,
   },
 ];
 
