@@ -202,6 +202,14 @@ const testimonials = [
   },
   {
     testimonial:
+      "Edison is a great team player and a very creative person. He is always willing to help others and is very reliable. He is a great asset to any team and I would highly recommend him for any project.",
+    name: "Camille Adrienne",
+    designation: "Chief Marketing ",
+    company: "Sellpy France",
+    image: "/src/assets/testimonials/cachetona.png",
+  },
+  {
+    testimonial:
       "He is a natural leader and visionary, inspiring cross-functional teams to move from ideation to high-quality outcomes. His ability to start from scratch - with keen observation, creativity, and leadership - and deliver something truly valuable is unparalleled. When working with Edison, fun, success and excellence are a given.",
     name: "Gonzalo Mendoza",
     designation: "Product Manager",
