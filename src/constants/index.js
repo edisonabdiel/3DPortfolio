@@ -198,7 +198,7 @@ const testimonials = [
     name: "Esteban Torres",
     designation: "Sr Engineering Manager",
     company: "Spotify",
-    image: "/src/assets/testimonials/esteban.png",
+    image: "/src/assets/esteban.png",
   },
   {
     testimonial:
