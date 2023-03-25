@@ -23,6 +23,8 @@ import {
     jobit,
     tripguide,
     threejs,
+    amazon,
+    home
   } from "../assets";
   
   export const navLinks = [
@@ -54,7 +56,7 @@ import {
       icon: backend,
     },
     {
-      title: "Product Manager",
+      title: "Technical Product Manager",
       icon: creator,
     },
   ];
@@ -116,9 +118,9 @@ import {
   
   const experiences = [
     {
-      title: "React.js Developer",
-      company_name: "Starbucks",
-      icon: starbucks,
+      title: "Project Manager",
+      company_name: "Amazon",
+      icon: amazon,
       iconBg: "#383E56",
       date: "March 2020 - April 2021",
       points: [
@@ -129,9 +131,9 @@ import {
       ],
     },
     {
-      title: "React Native Developer",
-      company_name: "Tesla",
-      icon: tesla,
+      title: "React Developer",
+      company_name: "SoundCloud",
+      icon: soundcloud,
       iconBg: "#E6DEDD",
       date: "Jan 2021 - Feb 2022",
       points: [
@@ -142,9 +144,9 @@ import {
       ],
     },
     {
-      title: "Web Developer",
-      company_name: "SoundCloud",
-      icon: soundcloud,
+      title: "Backend Developer",
+      company_name: "Aroundhome",
+      icon: home,
       iconBg: "#383E56",
       date: "Jan 2022 - Jan 2023",
       points: [
@@ -156,8 +158,8 @@ import {
     },
     {
       title: "Full stack Developer",
-      company_name: "Meta",
-      icon: meta,
+      company_name: "KickID",
+      icon: amazon,
       iconBg: "#E6DEDD",
       date: "Jan 2023 - Present",
       points: [
@@ -172,7 +174,7 @@ import {
   const testimonials = [
     {
       testimonial:
-        "He's got the best weed in Kotti. I've been smoking with him for years.",
+        "He's got the best weed in Kotti. I've been smoking with him for years. He's an easy win",
       name: "Sara Lee",
       designation: "CFO",
       company: "Acme Co",
@@ -181,14 +183,14 @@ import {
     {
       testimonial:
         "He is a natural leader and visionary, inspiring cross-functional teams to move from ideation to high-quality outcomes. His ability to start from scratch - with keen observation, creativity, and leadership - and deliver something truly valuable is unparalleled. When working with Edison, success and excellence are a given",
-      name: "Marx Antrax",
+      name: "Gonzalo Mendoza",
       designation: "CEO",
       company: "Umbrella Corp",
       image: "/src/assets/testimonials/gonzi.png",
     },
     {
       testimonial:
-        "After we did anal my hole was never the same. What a guy!",
+        "Imagine Dennis Rodman and Steve Jobs went on a wild holiday to Central America and had a baby. That's Edison",
       name: "Lisa Cum Long",
       designation: "CTO",
       company: "456 Enterprises",

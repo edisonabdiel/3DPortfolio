@@ -25,6 +25,8 @@ import meta from "./company/meta.png";
 import soundcloud from "./company/soundcloud.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
+import amazon from "./company/amazon.png";
+import home from "./company/home.png";
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
@@ -59,4 +61,6 @@ export {
   carrent,
   jobit,
   tripguide,
+  amazon,
+  home
 };
