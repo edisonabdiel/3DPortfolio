@@ -21,10 +21,8 @@ import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
 
-import meta from "./company/meta.png";
-import soundcloud from "./company/soundcloud.png";
-import starbucks from "./company/starbucks.png";
-import tesla from "./company/tesla.png";
+import kick from "./company/kick.png";
+import soundcloud from "./company/soundcloud.png"
 import amazon from "./company/amazon.png";
 import home from "./company/home.png";
 
@@ -54,13 +52,11 @@ export {
   tailwind,
   typescript,
   threejs,
-  meta,
   soundcloud,
-  starbucks,
-  tesla,
   carrent,
   jobit,
   tripguide,
   amazon,
-  home
+  home,
+  kick,
 };
