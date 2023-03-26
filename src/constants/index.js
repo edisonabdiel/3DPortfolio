@@ -196,7 +196,7 @@ const experiences = [
 const testimonials = [
   {
     testimonial:
-      "Not only is he trustworthy and reliable, but he is also quite the creative and innovative type. A laugh is guaranteed when working with this guy. Genuine team player and is always willing to help others. I would highly recommend him.",
+      "Edison is the coding rebel you never knew you needed, but once you've tasted his distinctive blend of brilliance and cheekiness, there's no going back. Buckle up and get ready for the ride of a lifetime!",
     name: "Esteban Torres",
     designation: "Sr Engineering Manager",
     company: "Spotify",
@@ -204,7 +204,7 @@ const testimonials = [
   },
   {
     testimonial:
-      "Edison is a great team player and a very creative person. He is always willing to help others and is very reliable. He is a great asset to any team and I would highly recommend him for any project.",
+      "Over numerous projects, Edison has been the depiction of dedication, passion and creativity all whilist achieving outcomes and objectives. If you want to bring growth to your organisation, he is definitely an asset to have on your team.",
     name: "Camille Adrienne",
     designation: "Chief Marketing ",
     company: "Sellpy France",
@@ -220,7 +220,7 @@ const testimonials = [
   },
   {
     testimonial:
-      "Imagine Dennis Rodman and Steve Jobs went on a wild holiday to Central America and had a baby. That's Edison! Energetic, fun and creative yet systematic, organized and structured. He taught me the true definition of work-hard & play-hard.",
+      "Working with Edison has been a thrilling ride of code, charisma, and pure creative chaos. Imagine the visionary prowess of Steve Jobs intertwined with the unapologetic flair of Dennis Rodman, all bundled up in one software engineering wunderkind.",
     name: "Marc Tuduri",
     designation: "Sr Backend Engineer",
     company: "Grafana Labs",
@@ -236,7 +236,7 @@ const testimonials = [
   },
   {
     testimonial:
-      "Sometimes I think he is an adroid! He is always on time, always on top of things, and always ready to help. Very experienced team player and a great intellectual asset to any team.",
+      "Edison brings a spark to every project, fusing technical knowlegde with a contagious, offbeat energy. His unorthodox approach has turned the most mundane tasks into electrifying experiences, making work feel like a playground.",
     name: "Harold Haftsadi",
     designation: "QA",
     company: "TikTok",
