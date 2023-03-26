@@ -26,7 +26,7 @@ import soundcloud from "./company/soundcloud.png"
 import amazon from "./company/amazon.png";
 import home from "./company/home.png";
 
-import carrent from "./carrent.png";
+import kryptr from "./kryptr.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 
@@ -51,7 +51,7 @@ export {
   typescript,
   threejs,
   soundcloud,
-  carrent,
+  kryptr,
   jobit,
   tripguide,
   amazon,

@@ -14,7 +14,7 @@ import {
   figma,
   docker,
   soundcloud,
-  carrent,
+  kryptr,
   jobit,
   tripguide,
   threejs,
@@ -196,19 +196,19 @@ const experiences = [
 const testimonials = [
   {
     testimonial:
-      "Edison is the coding rebel you never knew you needed, but once you've tasted his distinctive blend of brilliance and cheekiness, there's no going back. Buckle up and get ready for the ride of a lifetime!",
-    name: "Esteban Torres",
-    designation: "Sr Engineering Manager",
-    company: "Spotify",
-    image: esteban,
-  },
-  {
-    testimonial:
       "Over numerous projects, Edison has been the depiction of dedication, passion and creativity all whilist achieving outcomes and objectives. If you want to bring growth to your organisation, he is definitely an asset to have on your team.",
     name: "Camille Adrienne",
     designation: "Chief Marketing ",
     company: "Sellpy France",
     image: cachetona,
+  },
+  {
+    testimonial:
+      "Edison is the coding rebel you never knew you needed, but once you've tasted his distinctive blend of brilliance and cheekiness, there's no going back. Buckle up and get ready for the ride of a lifetime!",
+    name: "Esteban Torres",
+    designation: "Sr Engineering Manager",
+    company: "Spotify",
+    image: esteban,
   },
   {
     testimonial:
@@ -246,16 +246,16 @@ const testimonials = [
 
 const projects = [
   {
-    name: "Car Rent",
+    name: "Kryptr",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "My very first dApp!(proud tear). It's a simple React SPA that allows users to connect their wallets and transfer their currency to anyone anywhere anytime.",
     tags: [
       {
         name: "react",
         color: "blue-text-gradient",
       },
       {
-        name: "mongodb",
+        name: "solidity",
         color: "green-text-gradient",
       },
       {
@@ -263,51 +263,51 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: carrent,
-    source_code_link: "https://github.com/",
+    image: kryptr,
+    source_code_link: "https://github.com/edisonabdiel/Kryptoix",
   },
-  {
-    name: "Job IT",
-    description:
-      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
-    tags: [
-      {
-        name: "react",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "restapi",
-        color: "green-text-gradient",
-      },
-      {
-        name: "scss",
-        color: "pink-text-gradient",
-      },
-    ],
-    image: jobit,
-    source_code_link: "https://github.com/",
-  },
-  {
-    name: "Trip Guide",
-    description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
-    tags: [
-      {
-        name: "nextjs",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "supabase",
-        color: "green-text-gradient",
-      },
-      {
-        name: "css",
-        color: "pink-text-gradient",
-      },
-    ],
-    image: tripguide,
-    source_code_link: "https://github.com/",
-  },
+  // {
+  //   name: "Job IT",
+  //   description:
+  //     "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+  //   tags: [
+  //     {
+  //       name: "react",
+  //       color: "blue-text-gradient",
+  //     },
+  //     {
+  //       name: "restapi",
+  //       color: "green-text-gradient",
+  //     },
+  //     {
+  //       name: "scss",
+  //       color: "pink-text-gradient",
+  //     },
+  //   ],
+  //   image: jobit,
+  //   source_code_link: "https://github.com/",
+  // },
+  // {
+  //   name: "Trip Guide",
+  //   description:
+  //     "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+  //   tags: [
+  //     {
+  //       name: "nextjs",
+  //       color: "blue-text-gradient",
+  //     },
+  //     {
+  //       name: "supabase",
+  //       color: "green-text-gradient",
+  //     },
+  //     {
+  //       name: "css",
+  //       color: "pink-text-gradient",
+  //     },
+  //   ],
+  //   image: tripguide,
+  //   source_code_link: "https://github.com/",
+  // },
 ];
 
 export { services, technologies, experiences, testimonials, projects };
