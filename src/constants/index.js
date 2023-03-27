@@ -200,14 +200,14 @@ const testimonials = [
     company: "Sellpy France",
     image: cachetona,
   },
-  {
-    testimonial:
-      "He's the coding punk you never knew you needed, but once you've tasted his distinctive blend of brilliance and cheekiness, there's no going back. Buckle up and get ready for the ride of a lifetime!",
-    name: "Esteban Torres",
-    designation: "Sr Engineering Manager",
-    company: "Spotify",
-    image: esteban,
-  },
+  // {
+  //   testimonial:
+  //     "He's the coding punk you never knew you needed, but once you've tasted his distinctive blend of brilliance and cheekiness, there's no going back. Buckle up and get ready for the ride of a lifetime!",
+  //   name: "Esteban Torres",
+  //   designation: "Sr Engineering Manager",
+  //   company: "Spotify",
+  //   image: esteban,
+  // },
   {
     testimonial:
       "He is a natural leader and visionary, inspiring cross-functional teams to move from ideation to high-quality outcomes. His ability to start from scratch - with keen observation, creativity, and leadership - and deliver something truly valuable is unparalleled. When working with Edison, fun, success and excellence are a given.",
@@ -216,22 +216,22 @@ const testimonials = [
     company: "Parity Technologies",
     image: gonzi,
   },
-  {
-    testimonial:
-      "Working with Edison has been a thrilling ride of problem solving, charisma, banter and pure creative chaos. Imagine the visionary prowess of Steve Jobs intertwined with the unapologetic flair of Dennis Rodman, all bundled up in one software engineering wunderkind.",
-    name: "Marc Tuduri",
-    designation: "Sr Backend Engineer",
-    company: "Grafana Labs",
-    image: marc,
-  },
-  {
-    testimonial:
-      "Genuine courious mind with a high energy style and a lot of passion for what he does which make him super fun and engaging to work with. Any team would be lucky to have him on board!",
-    name: "Amy Nguyen",
-    designation: "Backend Engineer",
-    company: "Spotify",
-    image: amy,
-  },
+  // {
+  //   testimonial:
+  //     "Working with Edison has been a thrilling ride of problem solving, charisma, banter and pure creative chaos. Imagine the visionary prowess of Steve Jobs intertwined with the unapologetic flair of Dennis Rodman, all bundled up in one software engineering wunderkind.",
+  //   name: "Marc Tuduri",
+  //   designation: "Sr Backend Engineer",
+  //   company: "Grafana Labs",
+  //   image: marc,
+  // },
+  // {
+  //   testimonial:
+  //     "Genuine courious mind with a high energy style and a lot of passion for what he does which make him super fun and engaging to work with. Any team would be lucky to have him on board!",
+  //   name: "Amy Nguyen",
+  //   designation: "Backend Engineer",
+  //   company: "Spotify",
+  //   image: amy,
+  // },
   {
     testimonial:
       "Edison brings a spark to every project, fusing technical knowlegde with a contagious, offbeat energy. His unorthodox approach has turned the most mundane tasks into electrifying experiences, making work feel like a playground.",
