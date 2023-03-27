@@ -49,7 +49,7 @@ const About = () => {
       >
         For the past four years, I've been diving into the exciting realm of web development, sharpening my skills in TypeScript, React, Node.js, Three.js, Framer Motion and Next.js.
         Lately, I've caught the Solidity and Rust fever, fueling my passion to unlock their full potential.
-        My ultimate mission is to use my tech Ninja skills to build a better, decentralized future, empowering individuals and communities alike.
+        My ultimate mission is to use my Ninja Tech skills to build a better, decentralized future, empowering individuals and communities alike.
         If you're looking for a developer with a creative edge and a genuine passion for making a difference, you've found it here!
       </motion.p>
 

@@ -27,8 +27,7 @@ import amazon from "./company/amazon.png";
 import home from "./company/home.png";
 
 import kryptr from "./kryptr.png";
-import jobit from "./jobit.png";
-import tripguide from "./tripguide.png";
+
 
 export {
   logo,
@@ -52,8 +51,6 @@ export {
   threejs,
   soundcloud,
   kryptr,
-  jobit,
-  tripguide,
   amazon,
   home,
   kick,
