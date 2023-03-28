@@ -20,9 +20,8 @@ const Hero = () => {
           </h1>
           <p className={`${styles.heroSubText} mt-2 text-white-100`}>
             <br className='sm:block hidden' />
-            CypherPunk <br className='sm:block hidden' />
             TechnoAnarchist <br className='sm:block hidden' />
-            PickleJuiceDrinker
+            Oblivion NPC <br className='sm:block hidden' />
           </p>
         </div>
       </div>
