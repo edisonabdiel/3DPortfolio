@@ -27,6 +27,7 @@ import amazon from "./company/amazon.png";
 import home from "./company/home.png";
 
 import kryptr from "./kryptr.png";
+import smartcontract from "./smartcontract.png";
 
 
 export {
@@ -55,5 +56,6 @@ export {
   home,
   kick,
   rust,
-  solidity
+  solidity,
+  smartcontract
 };

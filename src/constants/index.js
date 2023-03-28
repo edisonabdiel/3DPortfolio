@@ -20,7 +20,8 @@ import {
   home,
   kick,
   rust,
-  solidity
+  solidity,
+  smartcontract,
 } from "../assets";
 
 import { esteban, cachetona, gonzi, marc, harry, amy } from "../assets/testimonials";
@@ -212,7 +213,7 @@ const testimonials = [
     testimonial:
       "He is a natural leader and visionary, inspiring cross-functional teams to move from ideation to high-quality outcomes. His ability to start from scratch - with keen observation, creativity, and leadership - and deliver something truly valuable is unparalleled. When working with Edison, fun, success and excellence are a given.",
     name: "Gonzalo Mendoza",
-    designation: "Product Manager",
+    designation: "Project Manager",
     company: "Parity Technologies",
     image: gonzi,
   },
@@ -263,6 +264,27 @@ const projects = [
     ],
     image: kryptr,
     source_code_link: "https://github.com/edisonabdiel/Kryptoix",
+  },
+  {
+    name: "PolkaFund",
+    description:
+      "My very first smart contract written in Rust using the node template from Substrate for the Polkadot ecosystem. I takes a donation and distrubutes it to the selected projects.",
+    tags: [
+      {
+        name: "rust",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "substrate",
+        color: "green-text-gradient",
+      },
+      {
+        name: "git",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: smartcontract,
+    source_code_link: "https://github.com/edisonabdiel/PolkaFund",
   }
 ];
 

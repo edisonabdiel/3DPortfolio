@@ -22,7 +22,7 @@ const Hero = () => {
             <br className='sm:block hidden' />
             CypherPunk <br className='sm:block hidden' />
             TechnoAnarchist <br className='sm:block hidden' />
-            Pickle Juice Drinker
+            PickleJuiceDrinker
           </p>
         </div>
       </div>
