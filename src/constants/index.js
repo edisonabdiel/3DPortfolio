@@ -22,6 +22,7 @@ import {
   rust,
   solidity,
   smartcontract,
+  decentrafund
 } from "../assets";
 
 import { esteban, cachetona, gonzi, marc, harry, amy } from "../assets/testimonials";
@@ -282,9 +283,38 @@ const projects = [
         name: "git",
         color: "pink-text-gradient",
       },
+      {
+        name: "WIP",
+        color: "orange-text-gradient",
+      },
     ],
     image: smartcontract,
     source_code_link: "https://github.com/edisonabdiel/PolkaFund",
+  },
+  {
+    name: "DecentraFund",
+    description:
+      "A decentralised free platform for the community to CrowdFund their favourite Web3.0/Blockchain projects with cryptocurrency.",
+    tags: [
+      {
+        name: "react",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "solidity",
+        color: "green-text-gradient",
+      },
+      {
+        name: "tailwind",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "WIP",
+        color: "orange-text-gradient",
+      },
+    ],
+    image: decentrafund,
+    source_code_link: "https://github.com/edisonabdiel/DecentraFund",
   }
 ];
 

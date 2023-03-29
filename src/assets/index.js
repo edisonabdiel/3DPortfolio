@@ -28,6 +28,7 @@ import home from "./company/home.png";
 
 import kryptr from "./kryptr.png";
 import smartcontract from "./smartcontract.png";
+import decentrafund from "./decentrafund.png";
 
 
 export {
@@ -57,5 +58,6 @@ export {
   kick,
   rust,
   solidity,
-  smartcontract
+  smartcontract,
+  decentrafund
 };
