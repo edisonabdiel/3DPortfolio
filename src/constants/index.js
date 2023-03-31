@@ -22,7 +22,8 @@ import {
   rust,
   solidity,
   smartcontract,
-  decentrafund
+  decentrafund,
+  cardgame
 } from "../assets";
 
 import { esteban, cachetona, gonzi, marc, harry, amy } from "../assets/testimonials";
@@ -315,6 +316,31 @@ const projects = [
     ],
     image: decentrafund,
     source_code_link: "https://github.com/edisonabdiel/DecentraFund",
+  },
+  {
+    name: "BattleCards",
+    description:
+      "NFT battle-style card game. With a stunning design, interactive gameplay, smart wallet pairing, live interaction with smart contracts, and, most importantly, the ability to battle other players in real-time.",
+    tags: [
+      {
+        name: "react",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "solidity",
+        color: "green-text-gradient",
+      },
+      {
+        name: "tailwind",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "WIP",
+        color: "orange-text-gradient",
+      },
+    ],
+    image: cardgame,
+    source_code_link: "https://github.com/edisonabdiel/BattleCardGame",
   }
 ];
 
