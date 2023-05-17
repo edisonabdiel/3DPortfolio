@@ -134,7 +134,7 @@ const experiences = [
     date: "Sept 2010 - Nov 2015",
     points: [
       "Manage Customer Service projects for the Amazon.com website.",
-      "Manage a whide range of stakeholders including business owners, product managers, and developers.",
+      "Manage a wide range of stakeholders including business owners, product managers, and developers.",
       "Organize and led weekly SCRUM ceremonies.",
       "Suporting Marketing campaigns and other business initiatives.",
     ],
@@ -146,9 +146,9 @@ const experiences = [
     iconBg: "#383E56",
     date: "June 2017 - Oct 2018",
     points: [
-      "Develope bussines case and project plan for new project development.",
-      "Developed an operational team as well as the workflow, KPIs and basically the whole operation of the team from scratch.",
-      "Analysing the metadata of the catalogue content and assuring its adequate distribution was the team's main function, as well as cleaning up the and verifying the catalogue from possible copy rights infringements.",
+      "Develop bussines case and project plan for new project development.",
+      "Develop an operational team as well as the workflow, KPIs and the whole operation of the team from scratch.",
+      "Analysing the metadata of the catalogue content and assuring its adequate distribution was the team's main function, as well as cleaning up the catalog and verifying the catalogue from possible copy rights infringements.",
       "Learn SQL in order to write queries and handle the team's data.",
     ],
   },
@@ -187,7 +187,7 @@ const experiences = [
     points: [
       "Develop OKRs along with KPIs and the Product Roadmap.",
       "Introduce and maintain Dual Track Agile Development.",
-      "Craft Surveys and Interviews in order to enrich the personas and an adequate market fit.",
+      "Craft surveys and interviews in order to enrich the personas and create an adequate product market fit.",
       "Extensive use of Jira and Confluence to manage the product development process.",
       "Work closely with Tech and Design in order to refactor the whole system architecture and user facing apps.",
     ],

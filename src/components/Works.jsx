@@ -80,8 +80,8 @@ const Works = () => {
           variants={fadeIn("", "", 0.1, 1)}
           className='mt-3 text-secondary text-[17px] max-w-3xl leading-[30px]'
         >
-          Over the las few years I've accomulated 100+ repos on my GitHub. Ranging from web to mobile to data bases to APIs. However, I've decided to showcase only my Web3.0/Blockchain & Gaming projects powered by React, Solidity, Three.js, WebGL and Rust since these technologies are my most recent obsession.
-          There are many more projects commig! Stay tuned!
+          Over the last few years I've accumulated 100+ repos on my GitHub. Ranging from web to mobile to databases to APIs. However, I've decided to showcase only my Web3.0/Blockchain & Gaming projects powered by React, Solidity, Three.js, WebGL and Rust since these technologies are my most recent obsessions.
+          There are many more projects comig! Stay tuned!
         </motion.p>
       </div>
 
