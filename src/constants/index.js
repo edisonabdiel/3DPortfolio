@@ -26,7 +26,7 @@ import {
   cardgame
 } from "../assets";
 
-import { esteban, cachetona, gonzi, marc, harry, amy } from "../assets/testimonials";
+import {cachetona, gonzi, harry } from "../assets/testimonials";
 
 export const navLinks = [
   {
